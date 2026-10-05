@@ -1,10 +1,10 @@
 Here are all the WordPress plugins and premium courses, available for free
 
-
-# 🌑 Charon
 <div align="center">
-  https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge
-  https://img.shields.io/badge/Status-Active-success?style=for-the-badge
-  https://img.shields.io/badge/License-MIT-blue?style=for-the-badge
-  https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge
+
+CHARON
+
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
 </div>
