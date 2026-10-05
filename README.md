@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Charon
+# ℂℍ𝔸ℝ𝕆ℕ
 
 ### 💎 Here are all the WordPress plugins and premium courses, available for free
 
